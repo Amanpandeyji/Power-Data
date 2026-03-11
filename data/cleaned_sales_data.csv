@@ -1,0 +1,122 @@
+Order ID,Order Date,Product Category,Product Name,Sales,Quantity,Region,Customer Segment,Profit,Discount,Year,Month,Month Name,Quarter,Day of Week,Week,Profit Margin,Revenue Per Unit
+ORD001,2023-01-05,Electronics,Laptop,1200.0,1,North,Corporate,300.0,0.1,2023,1,January,1,Thursday,1,25.0,1200.0
+ORD002,2023-01-07,Furniture,Office Chair,250.0,2,South,Consumer,50.0,0.05,2023,1,January,1,Saturday,1,20.0,125.0
+ORD003,2023-01-10,Office Supplies,Pens Set,15.0,5,East,Home Office,5.0,0.0,2023,1,January,1,Tuesday,2,33.33,3.0
+ORD004,2023-01-12,Electronics,Smartphone,800.0,1,West,Consumer,200.0,0.15,2023,1,January,1,Thursday,2,25.0,800.0
+ORD005,2023-01-15,Furniture,Desk,350.0,1,North,Corporate,100.0,0.1,2023,1,January,1,Sunday,2,28.57,350.0
+ORD006,2023-01-18,Electronics,Tablet,450.0,2,South,Home Office,120.0,0.05,2023,1,January,1,Wednesday,3,26.67,225.0
+ORD007,2023-01-20,Office Supplies,Notebook,8.0,10,East,Consumer,2.5,0.0,2023,1,January,1,Friday,3,31.25,0.8
+ORD008,2023-01-22,Furniture,Bookshelf,180.0,1,West,Home Office,40.0,0.1,2023,1,January,1,Sunday,3,22.22,180.0
+ORD009,2023-01-25,Electronics,Keyboard,75.0,3,North,Corporate,20.0,0.05,2023,1,January,1,Wednesday,4,26.67,25.0
+ORD010,2023-01-28,Office Supplies,Stapler,12.0,4,South,Consumer,3.0,0.0,2023,1,January,1,Saturday,4,25.0,3.0
+ORD011,2023-02-02,Electronics,Monitor,320.0,2,East,Corporate,80.0,0.1,2023,2,February,1,Thursday,5,25.0,160.0
+ORD012,2023-02-05,Furniture,Filing Cabinet,280.0,1,West,Consumer,65.0,0.05,2023,2,February,1,Sunday,5,23.21,280.0
+ORD013,2023-02-08,Office Supplies,Paper Ream,45.0,5,North,Home Office,12.0,0.0,2023,2,February,1,Wednesday,6,26.67,9.0
+ORD014,2023-02-10,Electronics,Wireless Mouse,35.0,4,South,Consumer,10.0,0.05,2023,2,February,1,Friday,6,28.57,8.75
+ORD015,2023-02-12,Furniture,Conference Table,1500.0,1,East,Corporate,400.0,0.15,2023,2,February,1,Sunday,6,26.67,1500.0
+ORD016,2023-02-15,Office Supplies,Binders,25.0,6,West,Home Office,8.0,0.0,2023,2,February,1,Wednesday,7,32.0,4.17
+ORD017,2023-02-18,Electronics,Printer,280.0,1,North,Consumer,70.0,0.1,2023,2,February,1,Saturday,7,25.0,280.0
+ORD018,2023-02-20,Furniture,Executive Chair,450.0,1,South,Corporate,120.0,0.05,2023,2,February,1,Monday,8,26.67,450.0
+ORD019,2023-02-23,Office Supplies,Markers,18.0,8,East,Consumer,5.0,0.0,2023,2,February,1,Thursday,8,27.78,2.25
+ORD020,2023-02-26,Electronics,Webcam,95.0,2,West,Home Office,25.0,0.05,2023,2,February,1,Sunday,8,26.32,47.5
+ORD021,2023-03-01,Furniture,Standing Desk,520.0,1,North,Corporate,140.0,0.1,2023,3,March,1,Wednesday,9,26.92,520.0
+ORD022,2023-03-04,Electronics,Headphones,120.0,3,South,Consumer,35.0,0.05,2023,3,March,1,Saturday,9,29.17,40.0
+ORD023,2023-03-07,Office Supplies,Folders,12.0,10,East,Home Office,3.5,0.0,2023,3,March,1,Tuesday,10,29.17,1.2
+ORD024,2023-03-10,Electronics,USB Drive,22.0,5,West,Consumer,6.0,0.0,2023,3,March,1,Friday,10,27.27,4.4
+ORD025,2023-03-12,Furniture,Storage Cabinet,340.0,1,North,Corporate,90.0,0.1,2023,3,March,1,Sunday,10,26.47,340.0
+ORD026,2023-03-15,Office Supplies,Scissors,8.0,6,South,Consumer,2.0,0.0,2023,3,March,1,Wednesday,11,25.0,1.33
+ORD027,2023-03-18,Electronics,Laptop Stand,55.0,2,East,Home Office,15.0,0.05,2023,3,March,1,Saturday,11,27.27,27.5
+ORD028,2023-03-20,Furniture,Meeting Chair,185.0,4,West,Corporate,48.0,0.05,2023,3,March,1,Monday,12,25.95,46.25
+ORD029,2023-03-23,Electronics,External Hard Drive,110.0,2,North,Consumer,30.0,0.1,2023,3,March,1,Thursday,12,27.27,55.0
+ORD030,2023-03-26,Office Supplies,Tape Dispenser,7.0,8,South,Home Office,2.0,0.0,2023,3,March,1,Sunday,12,28.57,0.88
+ORD031,2023-04-02,Electronics,Gaming Mouse,85.0,2,East,Consumer,25.0,0.05,2023,4,April,2,Sunday,13,29.41,42.5
+ORD032,2023-04-05,Furniture,L-Shaped Desk,680.0,1,West,Corporate,180.0,0.15,2023,4,April,2,Wednesday,14,26.47,680.0
+ORD033,2023-04-08,Office Supplies,Highlighters,14.0,7,North,Consumer,4.0,0.0,2023,4,April,2,Saturday,14,28.57,2.0
+ORD034,2023-04-10,Electronics,Docking Station,145.0,1,South,Home Office,40.0,0.1,2023,4,April,2,Monday,15,27.59,145.0
+ORD035,2023-04-12,Furniture,Ergonomic Chair,520.0,1,East,Corporate,140.0,0.1,2023,4,April,2,Wednesday,15,26.92,520.0
+ORD036,2023-04-15,Office Supplies,Envelopes,15.0,10,West,Consumer,4.5,0.0,2023,4,April,2,Saturday,15,30.0,1.5
+ORD037,2023-04-18,Electronics,Mechanical Keyboard,135.0,2,North,Consumer,38.0,0.05,2023,4,April,2,Tuesday,16,28.15,67.5
+ORD038,2023-04-20,Furniture,Side Table,95.0,2,South,Home Office,25.0,0.05,2023,4,April,2,Thursday,16,26.32,47.5
+ORD039,2023-04-23,Electronics,Bluetooth Speaker,75.0,3,East,Consumer,20.0,0.1,2023,4,April,2,Sunday,16,26.67,25.0
+ORD040,2023-04-26,Office Supplies,Clips,5.0,12,West,Home Office,1.5,0.0,2023,4,April,2,Wednesday,17,30.0,0.42
+ORD041,2023-05-01,Electronics,iPad,650.0,1,North,Corporate,170.0,0.1,2023,5,May,2,Monday,18,26.15,650.0
+ORD042,2023-05-04,Furniture,Drawer Unit,215.0,2,South,Consumer,55.0,0.05,2023,5,May,2,Thursday,18,25.58,107.5
+ORD043,2023-05-07,Office Supplies,Calculator,28.0,4,East,Home Office,8.0,0.0,2023,5,May,2,Sunday,18,28.57,7.0
+ORD044,2023-05-10,Electronics,Smart Watch,320.0,1,West,Consumer,85.0,0.15,2023,5,May,2,Wednesday,19,26.56,320.0
+ORD045,2023-05-12,Furniture,Coffee Table,280.0,1,North,Corporate,75.0,0.1,2023,5,May,2,Friday,19,26.79,280.0
+ORD046,2023-05-15,Electronics,Wireless Charger,45.0,4,South,Home Office,12.0,0.05,2023,5,May,2,Monday,20,26.67,11.25
+ORD047,2023-05-18,Office Supplies,Label Maker,55.0,2,East,Consumer,15.0,0.0,2023,5,May,2,Thursday,20,27.27,27.5
+ORD048,2023-05-20,Furniture,Lounge Chair,380.0,1,West,Corporate,100.0,0.1,2023,5,May,2,Saturday,20,26.32,380.0
+ORD049,2023-05-23,Electronics,Camera,950.0,1,North,Consumer,250.0,0.15,2023,5,May,2,Tuesday,21,26.32,950.0
+ORD050,2023-05-26,Office Supplies,Desk Organizer,32.0,5,South,Home Office,9.0,0.0,2023,5,May,2,Friday,21,28.12,6.4
+ORD051,2023-06-02,Electronics,Laptop,1150.0,1,East,Corporate,290.0,0.1,2023,6,June,2,Friday,22,25.22,1150.0
+ORD052,2023-06-05,Furniture,Executive Desk,850.0,1,West,Corporate,230.0,0.15,2023,6,June,2,Monday,23,27.06,850.0
+ORD053,2023-06-08,Office Supplies,Whiteboard,120.0,2,North,Consumer,32.0,0.05,2023,6,June,2,Thursday,23,26.67,60.0
+ORD054,2023-06-10,Electronics,Projector,680.0,1,South,Corporate,180.0,0.1,2023,6,June,2,Saturday,23,26.47,680.0
+ORD055,2023-06-12,Furniture,Visitors Chair,165.0,4,East,Consumer,42.0,0.05,2023,6,June,2,Monday,24,25.45,41.25
+ORD056,2023-06-15,Office Supplies,Desk Lamp,42.0,3,West,Home Office,11.0,0.0,2023,6,June,2,Thursday,24,26.19,14.0
+ORD057,2023-06-18,Electronics,Router,85.0,2,North,Consumer,22.0,0.05,2023,6,June,2,Sunday,24,25.88,42.5
+ORD058,2023-06-20,Furniture,File Trolley,195.0,1,South,Home Office,50.0,0.05,2023,6,June,2,Tuesday,25,25.64,195.0
+ORD059,2023-06-23,Electronics,Graphics Tablet,240.0,1,East,Corporate,65.0,0.1,2023,6,June,2,Friday,25,27.08,240.0
+ORD060,2023-06-26,Office Supplies,Punch Machine,35.0,3,West,Consumer,9.0,0.0,2023,6,June,2,Monday,26,25.71,11.67
+ORD061,2023-07-01,Electronics,Smartphone,850.0,1,North,Consumer,220.0,0.15,2023,7,July,3,Saturday,26,25.88,850.0
+ORD062,2023-07-04,Furniture,Reception Desk,1200.0,1,South,Corporate,320.0,0.15,2023,7,July,3,Tuesday,27,26.67,1200.0
+ORD063,2023-07-07,Office Supplies,Storage Boxes,28.0,8,East,Home Office,7.5,0.0,2023,7,July,3,Friday,27,26.79,3.5
+ORD064,2023-07-10,Electronics,Monitor,340.0,2,West,Corporate,90.0,0.1,2023,7,July,3,Monday,28,26.47,170.0
+ORD065,2023-07-12,Furniture,Bar Stool,125.0,3,North,Consumer,32.0,0.05,2023,7,July,3,Wednesday,28,25.6,41.67
+ORD066,2023-07-15,Electronics,Power Bank,38.0,5,South,Home Office,10.0,0.0,2023,7,July,3,Saturday,28,26.32,7.6
+ORD067,2023-07-18,Office Supplies,Adhesive Notes,12.0,10,East,Consumer,3.5,0.0,2023,7,July,3,Tuesday,29,29.17,1.2
+ORD068,2023-07-20,Furniture,Magazine Rack,75.0,2,West,Home Office,20.0,0.05,2023,7,July,3,Thursday,29,26.67,37.5
+ORD069,2023-07-23,Electronics,Microphone,155.0,1,North,Corporate,42.0,0.1,2023,7,July,3,Sunday,29,27.1,155.0
+ORD070,2023-07-26,Office Supplies,Correction Tape,6.0,12,South,Consumer,1.8,0.0,2023,7,July,3,Wednesday,30,30.0,0.5
+ORD071,2023-08-02,Electronics,Smart TV,1450.0,1,East,Consumer,380.0,0.2,2023,8,August,3,Wednesday,31,26.21,1450.0
+ORD072,2023-08-05,Furniture,Recliner,680.0,1,West,Corporate,180.0,0.15,2023,8,August,3,Saturday,31,26.47,680.0
+ORD073,2023-08-08,Office Supplies,Desk Pad,25.0,6,North,Home Office,7.0,0.0,2023,8,August,3,Tuesday,32,28.0,4.17
+ORD074,2023-08-10,Electronics,Gaming Headset,125.0,2,South,Consumer,35.0,0.1,2023,8,August,3,Thursday,32,28.0,62.5
+ORD075,2023-08-12,Furniture,Coat Rack,58.0,3,East,Consumer,15.0,0.0,2023,8,August,3,Saturday,32,25.86,19.33
+ORD076,2023-08-15,Electronics,Scanner,220.0,1,West,Corporate,58.0,0.1,2023,8,August,3,Tuesday,33,26.36,220.0
+ORD077,2023-08-18,Office Supplies,Pencil Holder,15.0,8,North,Home Office,4.0,0.0,2023,8,August,3,Friday,33,26.67,1.88
+ORD078,2023-08-20,Furniture,Ottoman,145.0,2,South,Consumer,38.0,0.05,2023,8,August,3,Sunday,33,26.21,72.5
+ORD079,2023-08-23,Electronics,Fitness Tracker,180.0,2,East,Consumer,48.0,0.1,2023,8,August,3,Wednesday,34,26.67,90.0
+ORD080,2023-08-26,Office Supplies,Paper Clips,4.0,15,West,Home Office,1.2,0.0,2023,8,August,3,Saturday,34,30.0,0.27
+ORD081,2023-09-01,Electronics,Laptop,1100.0,1,North,Corporate,280.0,0.1,2023,9,September,3,Friday,35,25.45,1100.0
+ORD082,2023-09-04,Furniture,Corner Desk,520.0,1,South,Corporate,140.0,0.1,2023,9,September,3,Monday,36,26.92,520.0
+ORD083,2023-09-07,Office Supplies,Rubber Bands,3.0,20,East,Consumer,0.9,0.0,2023,9,September,3,Thursday,36,30.0,0.15
+ORD084,2023-09-10,Electronics,Tablet,480.0,1,West,Home Office,125.0,0.1,2023,9,September,3,Sunday,36,26.04,480.0
+ORD085,2023-09-12,Furniture,Folding Chair,85.0,5,North,Consumer,22.0,0.0,2023,9,September,3,Tuesday,37,25.88,17.0
+ORD086,2023-09-15,Electronics,Portable SSD,195.0,2,South,Corporate,52.0,0.05,2023,9,September,3,Friday,37,26.67,97.5
+ORD087,2023-09-18,Office Supplies,Index Cards,8.0,10,East,Home Office,2.4,0.0,2023,9,September,3,Monday,38,30.0,0.8
+ORD088,2023-09-20,Furniture,Plant Stand,48.0,3,West,Consumer,12.5,0.0,2023,9,September,3,Wednesday,38,26.04,16.0
+ORD089,2023-09-23,Electronics,Smart Doorbell,220.0,1,North,Consumer,58.0,0.1,2023,9,September,3,Saturday,38,26.36,220.0
+ORD090,2023-09-26,Office Supplies,Stamp Pad,9.0,7,South,Home Office,2.5,0.0,2023,9,September,3,Tuesday,39,27.78,1.29
+ORD091,2023-10-02,Electronics,Desktop Computer,1850.0,1,East,Corporate,490.0,0.15,2023,10,October,4,Monday,40,26.49,1850.0
+ORD092,2023-10-05,Furniture,Modular Sofa,1280.0,1,West,Consumer,340.0,0.2,2023,10,October,4,Thursday,40,26.56,1280.0
+ORD093,2023-10-08,Office Supplies,Shredder,145.0,1,North,Corporate,38.0,0.1,2023,10,October,4,Sunday,40,26.21,145.0
+ORD094,2023-10-10,Electronics,Air Purifier,280.0,2,South,Home Office,75.0,0.1,2023,10,October,4,Tuesday,41,26.79,140.0
+ORD095,2023-10-12,Furniture,TV Stand,265.0,1,East,Consumer,70.0,0.05,2023,10,October,4,Thursday,41,26.42,265.0
+ORD096,2023-10-15,Electronics,Gaming Console,480.0,1,West,Consumer,125.0,0.15,2023,10,October,4,Sunday,41,26.04,480.0
+ORD097,2023-10-18,Office Supplies,File Folders,18.0,12,North,Home Office,5.0,0.0,2023,10,October,4,Wednesday,42,27.78,1.5
+ORD098,2023-10-20,Furniture,Bed Frame,680.0,1,South,Consumer,180.0,0.15,2023,10,October,4,Friday,42,26.47,680.0
+ORD099,2023-10-23,Electronics,Drone,850.0,1,East,Corporate,225.0,0.15,2023,10,October,4,Monday,43,26.47,850.0
+ORD100,2023-10-26,Office Supplies,Desk Calendar,22.0,6,West,Consumer,6.0,0.0,2023,10,October,4,Thursday,43,27.27,3.67
+ORD002,2023-10-28,Furniture,Office Chair,250.0,2,South,Consumer,50.0,0.05,2023,10,October,4,Saturday,43,20.0,125.0
+ORD101,2023-11-01,Electronics,Laptop,1200.0,1,North,Corporate,300.0,0.1,2023,11,November,4,Wednesday,44,25.0,1200.0
+ORD102,2023-11-04,Office Supplies,Unknown Product,35.0,8,East,Consumer,9.5,0.0,2023,11,November,4,Saturday,44,27.14,4.38
+ORD103,2023-11-07,Furniture,Conference Table,1600.0,1,West,Corporate,425.0,0.15,2023,11,November,4,Tuesday,45,26.56,1600.0
+ORD104,2023-11-10,Electronics,Smartphone,820.0,1,South,Consumer,215.0,0.15,2023,11,November,4,Friday,45,26.22,820.0
+ORD105,2023-11-12,Unknown,Monitor Stand,65.0,3,North,Home Office,17.0,0.05,2023,11,November,4,Sunday,45,26.15,21.67
+ORD106,2023-11-15,Office Supplies,Desk Set,48.0,4,East,Consumer,13.0,0.0,2023,11,November,4,Wednesday,46,27.08,12.0
+ORD107,2023-11-18,Furniture,Accent Chair,320.0,2,West,Consumer,85.0,0.1,2023,11,November,4,Saturday,46,26.56,160.0
+ORD108,2023-11-20,Electronics,E-reader,145.0,2,South,Home Office,38.0,0.05,2023,11,November,4,Monday,47,26.21,72.5
+ORD109,2023-11-23,Office Supplies,Business Cards,55.0,5,North,Corporate,15.0,0.0,2023,11,November,4,Thursday,47,27.27,11.0
+ORD110,2023-11-26,Electronics,Unknown Product,95.0,3,East,Consumer,25.0,0.05,2023,11,November,4,Sunday,47,26.32,31.67
+ORD111,2023-12-01,Furniture,Bookcase,385.0,1,West,Corporate,102.0,0.1,2023,12,December,4,Friday,48,26.49,385.0
+ORD112,2023-12-04,Electronics,Smart Thermostat,185.0,2,South,Home Office,49.0,0.1,2023,12,December,4,Monday,49,26.49,92.5
+ORD113,2023-12-07,Office Supplies,Planner,28.0,7,North,Consumer,7.5,0.0,2023,12,December,4,Thursday,49,26.79,4.0
+ORD114,2023-12-10,Electronics,Security Camera,240.0,2,East,Corporate,64.0,0.1,2023,12,December,4,Sunday,49,26.67,120.0
+ORD115,2023-12-12,Furniture,Dining Table,950.0,1,West,Consumer,250.0,0.15,2023,12,December,4,Tuesday,50,26.32,950.0
+ORD116,2023-12-15,Office Supplies,Bulletin Board,42.0,4,South,Home Office,11.0,0.0,2023,12,December,4,Friday,50,26.19,10.5
+ORD117,2023-12-18,Electronics,Sound Bar,320.0,1,North,Consumer,85.0,0.1,2023,12,December,4,Monday,51,26.56,320.0
+ORD118,2023-12-20,Furniture,Nightstand,165.0,2,East,Consumer,43.0,0.05,2023,12,December,4,Wednesday,51,26.06,82.5
+ORD119,2023-12-23,Electronics,VR Headset,450.0,1,West,Corporate,120.0,0.15,2023,12,December,4,Saturday,51,26.67,450.0
+ORD120,2023-12-26,Office Supplies,Document Holder,18.0,9,South,Home Office,5.0,0.0,2023,12,December,4,Tuesday,52,27.78,2.0
